@@ -1,0 +1,6 @@
+@KhoDuoc_HostAddress = http://10.1.1.173
+
+GET {{KhoDuoc_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
